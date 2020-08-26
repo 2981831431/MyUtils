@@ -17,7 +17,6 @@ public class Test {
         long end = System.currentTimeMillis();
         System.out.println("程序运行时间： " + (end - begin) + "ms");*/
 
-
         System.out.println(new MD5().getPassword(10));
 
     }
