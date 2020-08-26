@@ -49,6 +49,6 @@ public class Test {
         name.reduction(new File("H:\\视频\\电视剧\\下一站性福\\Video\\3D_Carton"));*/
 
         System.out.println(new MD5().getPassword(10));
-
+        System.out.println("6666");
     }
 }
